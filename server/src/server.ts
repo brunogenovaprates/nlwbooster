@@ -9,6 +9,7 @@ app.get('/users', (request, response) => {
         'Bruno',
         'Thais',
         'Sofia',
+        'Sofia++',
         'Familia'
     ]);
 });
